@@ -1,0 +1,3 @@
+List - min, max, unique, even, odd, ascending, descending, sum
+Vector - min, max, unique, even, odd, ascending, descending, sum
+Matrix - arithmatic, multiplication, transpse, subtraction, right_left_diagonal, sum_of_row, matrix_row_column, lower_upper_traingular, sparse_martix, equal_matrix
